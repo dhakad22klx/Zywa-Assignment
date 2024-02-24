@@ -1,6 +1,6 @@
 # Zywa Assigment Documentation
 
-This is task that i have implement as a part of Zywa Recruitment Assignment , implement task with proper file structuring.The project involves processing data from a CSV file, storing it in a MongoDB database, and creating an API endpoint to retrieve the latest status of a card.
+This is task that i have implement as a part of Zywa Recruitment Assignment , implemented the task with proper file structuring.The project involves processing data from a CSV file, storing it in a MongoDB database, and creating an API endpoint to retrieve the latest status of a card.
 
 ## Features
 
@@ -13,6 +13,10 @@ This is task that i have implement as a part of Zywa Recruitment Assignment , im
 - Express
 - MongoDb
 - Mongoose 
+
+## File Structure 
+
+Main file is app.js, data folder contains provided CSV files, in User folder i am implementing all the business logic, SetUpData folder contains file to copy data from local store (data folder) into MongoDB database.
 
 ## Setup
 
